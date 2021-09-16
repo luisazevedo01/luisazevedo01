@@ -56,8 +56,4 @@
 <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=luisazevedo01">
-</a>
 <a href="https://github.com/luisazevedo01?tab=followers"><img src="https://img.shields.io/github/followers/luisazevedo01?label=Followers&style=social" alt="GitHub Badge"></a>
