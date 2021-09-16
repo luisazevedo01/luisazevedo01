@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/luisazevedo01/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luís Azevedo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luisazevedo01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/luisazevedo01/github-readme-activity-graph"><img alt="Luís Azevedo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/luisazevedo01/github-readme-activity-graph"><img alt="Luís Azevedo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luisazevedo01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -53,7 +53,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/luisgomesazevedo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 <a href="https://github.com/luisazevedo01?tab=followers"><img src="https://img.shields.io/github/followers/luisazevedo01?label=Followers&style=social" alt="GitHub Badge"></a>
