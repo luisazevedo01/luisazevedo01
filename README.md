@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Luís Azevedo</h1>
-
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 📖 I’m currently learning: **React**
 - 🐂 I'm a proud co-founder of <a href="https://www.auroch.pt">Auroch</a>
 - ⏳ Hobbies: ⚽ Sports / 🎺 Music / ✈️ Travel 
